@@ -112,7 +112,7 @@ From some of the exploratory tests and also one of the test cases, Issues/Defect
 
 We've created a living docs report covering our Selenium tests. It is in the main folder of the application.
 
-![Image](./LivingDocsPhoto.png)
+![Image](./Images/LivingDocsPhoto.png)
 
 # API Testing
 
