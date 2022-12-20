@@ -108,6 +108,12 @@ From some of the exploratory tests and also one of the test cases, Issues/Defect
 - e1.2 Can access Create page for a Trainee that does not exist
 - 1.2.3 Can access another Trainee's trackers as a Trainee
 
+# Living Docs
+
+We've created a living docs report covering our Selenium tests. It is in the main folder of the application.
+
+![Image](./LivingDocsPhoto.png)
+
 # API Testing
 
 We've created a basic API testing framework which tests few of the API endpoints and these are:
