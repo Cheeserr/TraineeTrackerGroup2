@@ -107,3 +107,17 @@ From some of the exploratory tests and also one of the test cases, Issues/Defect
 - e1.1 Trainee can access Create page
 - e1.2 Can access Create page for a Trainee that does not exist
 - 1.2.3 Can access another Trainee's trackers as a Trainee
+
+# API Testing
+
+We've created a basic API testing framework which tests few of the API endpoints and these are:
+
+- Create Tracker
+- Create Tracker By Id
+- Get Tracker Details by Id
+- Get Trackers by Id
+- Delete User
+- Get User Details By Id
+- Get Users
+
+All of the services are using the same base service, so they are easily extendable and easy to modify.
